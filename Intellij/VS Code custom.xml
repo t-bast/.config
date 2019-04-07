@@ -1,0 +1,21 @@
+<keymap version="1" name="VS Code copy" parent="VS Code">
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+  </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorTab">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="ExpandLiveTemplateCustom" />
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl i" />
+  </action>
+</keymap>
